@@ -1,3 +1,11 @@
+
+<p align="center">
+  <a href="https://www.kaggle.com/code/hassanjameelahmed/complete-historical-nobel-prize-1901-2016" target="_blank">
+    <img src="Nobel Prize Visual Archive.png" alt="Nobel Prize Visual Archive" width="800">
+  </a>
+</p>
+
+
 [project_summary.md](https://github.com/user-attachments/files/24857376/project_summary.md)
 # Nobel Minds: A Visual Story of 115 Years of Human Achievement (1901-2016)
 
